@@ -125,7 +125,7 @@ const 比 = 2;
 const 画板 = 新建元素('canvas');
 
 画板.width = 宽 * 比;
-画板.height = 宽 * 比;
+画板.height = 高 * 比;
 
 const 上下文 = 画板.getContext('2d');
 
