@@ -157,7 +157,7 @@ const 保存图像 = _=>{
         上下文.fillStyle = '#e4cfff';
         上下文.fillRect(
             0,0,
-            宽 * 比,宽 * 比
+            宽 * 比,高 * 比
         );
         上下文.drawImage(
             图,
