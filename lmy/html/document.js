@@ -124,7 +124,7 @@ const 比 = 2;
 
 const 画板 = 新建元素('canvas');
 
-画板.width = 宽 * 比;
+画板.width = 高 * 比;
 画板.height = 高 * 比;
 
 const 上下文 = 画板.getContext('2d');
@@ -172,7 +172,7 @@ const 保存图像 = _=>{
            输出图像.querySelector("img").src = 地址;
            输出图像样式.display = "";
            设置延时((_) => {
-             下载文件(地址, `[ThusLab][清华制霸]${+new Date()}.png`);
+             下载文件(地址, `[赖美云][小面包制霸]${+new Date()}.png`);
            }, 50);
          }, "image/png");
     });
