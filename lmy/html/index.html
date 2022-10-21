@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>挑战谁是「赖美云的小面包制霸」？</title>
+    <meta name="description" content="小面包制霸，地图生成器" />
+    <meta name="keywords" content="小面包制霸,小面包制霸地图生成器,小面包地图,赖美云" />
+		<link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="document.css" />
+  </head>
+  <body>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1134 976">
+      <style></style>
+      <style>
+        text {
+          font-family: slice,sans-serif;
+          fill: #111;
+          font-size: 30px;
+        }
+        #title {
+          font-size: 60px;
+        }
+        #分数 {
+          font-size: 60px;
+        }
+        #地区 path,
+        #地区 rect,
+        polyline {
+          fill-rule: evenodd;
+          clip-rule: evenodd;
+          stroke: #000;
+          stroke-width: 4;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+        }
+        #地区 path,
+        #地区 rect {
+          fill: #fff;
+          cursor: pointer;
+          pointer-events: auto;
+        }
+        polygon {
+          fill: #fff;
+          cursor: pointer;
+          pointer-events: auto;
+          stroke: #000;
+          stroke-width: 4;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+        }
+        #地区 > *[level="4"] {
+          fill: #ff7700;
+        }
+        #地区 > *[level="3"] {
+          fill: #ffb57e;
+        }
+        #地区 > *[level="2"] {
+          fill: #ffe57e;
+        }
+        #地区 > *[level="1"] {
+          fill: #a8ffbe;
+        }
+        #地区 > *[level="0"] {
+          fill: #ffffff;
+        }
+        .level-border {
+          fill-rule: evenodd;
+          clip-rule: evenodd;
+          fill: none;
+          stroke: #000000;
+          stroke-width: 4;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+          stroke-miterlimit: 10;
+        }
+      </style>
+      <text x="815" y="109" id="title">小面包制霸</text>
+      <g id="地区">
+        <polygon id="北京演唱会" class="st12" points="682.3,229 682.3,301 814.3,301 814.3,251.6 748.3,251.6 748.3,229  "/>
+        <rect id="上海演唱会" class="st12" x="721" y="426" width="84" height="63.6"/>
+        <rect id="广州演唱会" class="st12" x="672" y="690" width="84" height="63.6"/>
+      </g>
+
+
+      <g id="地名">
+
+        <text transform="matrix(1 0 0 1 726.884 450.7446)" class="st12"><tspan x="0" y="0" style="font-size: 17px">上海</tspan><tspan x="0" y="28.8" style="font-size: 17px">演唱会</tspan></text>
+        <text id="广州_演唱会" transform="matrix(1 0 0 1 677.884 714.7448)" class="st12"><tspan x="0" y="0" style="font-size: 17px">广州</tspan><tspan x="0" y="28.8" style="font-size: 17px">演唱会</tspan></text>
+        <text transform="matrix(1 0 0 1 689.884 258.7446)" style="font-size: 17px"><tspan x="0" y="0" class="st0 st1 st13">北京</tspan><tspan x="0" y="28.8" style="font-size: 17px">演唱会</tspan></text>
+      </g>
+
+
+      <text id="ThusLab" x="30" y="100" style="font-size: 18px">本图仅供娱乐</text>
+      <text id="ThusLab" x="30" y="120" style="font-size: 18px">无法涵盖所有活动</text>
+      <text id="ThusLab" x="30" y="140" style="font-size: 18px">烦请谅解</text>
+
+
+      <text id="ThusLab" x="30" y="923" style="font-size: 12px">啾啾出品</text>
+      <text id="ThusLab" x="30" y="940" style="font-size: 12px">修改自 github.com/itorr/china-ex</text>
+      <text id="ThusLab" x="30" y="955" style="font-size: 12px">      github.com/wlunch/wlunch.github.io</text>
+      <text id="分数" x="25" y="883">分数</text>
+    </g>
+    
+
+    <g id="等级">
+  
+ 
+      <rect x="983" y="500" width="140" height="50" fill="#FF7700"/>
+      <rect x="983" y="550" width="140" height="50" fill="#FFB57E"/>
+      <rect x="983" y="600" width="140" height="50" fill="#FFE57E"/>
+      <rect x="983" y="650" width="140" height="50" fill="#A8FFBE"/>
+      <rect x="983" y="700" width="140" height="50" fill="#FFFFFF"/>
+      <rect x="983" y="500" class="level-border" width="140" height="250" />
+      
+      <text x="988" y="535" style="font-size: 24px">4 线下去过</text>
+      <text x="988" y="585" style="font-size: 24px">3 线上观看</text>
+      <text x="988" y="635" style="font-size: 24px">2 看过返图</text>
+      <text x="988" y="685" style="font-size: 24px">1 听说过</text>
+      <text x="988" y="735" style="font-size: 24px">0 没印象</text>
+    </g>
+
+    </svg>
+    <div id="设置等级">
+      <h2>地区</h2>
+      <a data-level="4">线下去过</a>
+      <a data-level="3">线上观看</a>
+      <a data-level="2">看过返图</a>
+      <a data-level="1">听说过</a>
+      <a data-level="0">没印象</a>
+    </div>
+    <footer>
+      <a id="保存" class="按钮">保存成图片</a>
+    </footer>
+    <div id="输出图像" style="display: none">
+      <div>
+        <img />
+      </div>
+      <p>
+        手机端可长按图片
+        <b>“添加到照片”</b>
+      </p>
+      <div>
+        <a class="按钮">关闭</a>
+      </div>
+    </div>
+    <script src="document.js"></script>
+  </body>
+</html>
+

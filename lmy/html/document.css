@@ -63,25 +63,25 @@ a {
   display: block;
   padding: 4px 10px;
 }
-#设置等级 h2[data-level="5"],
-#设置等级 a[data-level="5"] {
-  background: #ff7e7e;
-}
 #设置等级 h2[data-level="4"],
 #设置等级 a[data-level="4"] {
-  background: #ffb57e;
+  background: #ff7700;
 }
 #设置等级 h2[data-level="3"],
 #设置等级 a[data-level="3"] {
-  background: #ffe57e;
+  background: #ffb57e;
 }
 #设置等级 h2[data-level="2"],
 #设置等级 a[data-level="2"] {
-  background: #a8ffbe;
+  background: #ffe57e;
 }
 #设置等级 h2[data-level="1"],
 #设置等级 a[data-level="1"] {
-  background: #88aeff;
+  background: #a8ffbe;
+}
+#设置等级 h2[data-level="0"],
+#设置等级 a[data-level="0"] {
+  background: #fffff;
 }
 .按钮 {
   background: #fff;
