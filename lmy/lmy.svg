@@ -1,47 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1134 976" style="enable-background:new 0 0 1134 976;" xml:space="preserve">
+	 viewBox="0 0 1134 1440" style="enable-background:new 0 0 1134 1440;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#111111;}
 	.st1{font-family:'Tensentype-JiaLiDaYuanJ';}
 	.st2{font-size:60px;}
 	.st3{font-size:29.4198px;}
-	.st4{fill:#88AEFF;}
-	.st5{fill:#A8FFBE;}
+	.st4{fill:#ffffff;}
+	.st5{fill:#a8ffbe;}
 	.st6{fill:#FFE57E;}
 	.st7{fill:#FFB57E;}
-	.st8{fill:#FF7E7E;}
+	.st8{fill:#ff7700;}
 	.st9{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st10{font-size:30px;}
 	.st11{fill:#FFFFFF;stroke:#231F20;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st12{enable-background:new    ;}
-	.st13{font-size:24px;}
+	.st12{font-size:24px;}
 </style>
-<text transform="matrix(1 0 0 1 843.2036 109.4096)" class="st0 st1 st2">清华制霸</text>
-<text id="小五爷园" transform="matrix(1 0 0 1 37 937)" class="st0 st1 st3">清华小五爷园</text>
-<text id="分数" transform="matrix(1 0 0 1 35 883.5577)" class="st0 st1 st2">分数</text>
+<text transform="matrix(1 0 0 1 862.7026 93.922)" class="st0 st1 st2">清华制霸</text>
+<text id="小五爷园" transform="matrix(1 0 0 1 44.4999 1389.489)" class="st0 st1 st3">清华小五爷园</text>
+<text id="分数" transform="matrix(1 0 0 1 44.4999 1328.547)" class="st0 st1 st2">分数</text>
 <g id="等级">
-	<rect x="932.1" y="655" class="st4" width="176.2" height="50"/>
-	<rect x="932.1" y="605" class="st5" width="176.2" height="50"/>
-	<rect x="932.1" y="555" class="st6" width="176.2" height="50"/>
-	<rect x="932.1" y="505" class="st7" width="176.2" height="50"/>
-	<rect x="932.1" y="455" class="st8" width="176.2" height="50"/>
-	<rect x="932.1" y="455" class="st9" width="176.2" height="250"/>
-	<text transform="matrix(1 0 0 1 947.6979 489.6172)" class="st1 st10">5 线下去过</text>
-	<text transform="matrix(1 0 0 1 947.7272 540.0001)" class="st1 st10">4 线上观看</text>
-	<text transform="matrix(1 0 0 1 947.7272 590.0001)" class="st1 st10">3 看过返图</text>
-	<text transform="matrix(1 0 0 1 947.7272 640.0001)" class="st1 st10">2 听说过</text>
-	<text transform="matrix(1 0 0 1 947.7272 690.0001)" class="st1 st10">1 没印象</text>
+	<rect x="938.1" y="1313.6" class="st4" width="176.2" height="50"/>
+	<rect x="938.1" y="1263.6" class="st5" width="176.2" height="50"/>
+	<rect x="938.1" y="1213.6" class="st6" width="176.2" height="50"/>
+	<rect x="938.1" y="1163.6" class="st7" width="176.2" height="50"/>
+	<rect x="938.1" y="1113.6" class="st8" width="176.2" height="50"/>
+	<rect x="938.1" y="1113.6" class="st9" width="176.2" height="250"/>
+	<text transform="matrix(1 0 0 1 953.6976 1148.1879)" class="st1 st10">4 线下去过</text>
+	<text transform="matrix(1 0 0 1 953.7269 1198.5708)" class="st1 st10">3 线上观看</text>
+	<text transform="matrix(1 0 0 1 953.7269 1248.5708)" class="st1 st10">2 看过返图</text>
+	<text transform="matrix(1 0 0 1 953.7269 1298.5708)" class="st1 st10">1 听说过</text>
+	<text transform="matrix(1 0 0 1 953.7269 1348.5708)" class="st1 st10">0 没印象</text>
 </g>
 <g id="地区_1_">
-	<polygon id="北京演唱会" class="st11" points="682.3,229 682.3,301 814.3,301 814.3,251.6 748.3,251.6 748.3,229 	"/>
-	<rect id="上海演唱会" x="721" y="426" class="st11" width="84" height="63.6"/>
-	<rect id="广州演唱会" x="672" y="690" class="st11" width="84" height="63.6"/>
+	<polygon id="北京演唱会" class="st11" points="852.4,305 852.4,377 984.4,377 984.4,327.6 918.4,327.6 918.4,305 	"/>
+	<rect id="上海演唱会" x="891.1" y="502" class="st11" width="84" height="63.6"/>
+	<rect id="广州演唱会" x="842.1" y="766" class="st11" width="84" height="63.6"/>
 </g>
 <g id="地名_1_">
-	<text transform="matrix(1 0 0 1 726.884 450.7446)" class="st12"><tspan x="0" y="0" class="st0 st1 st13">上海</tspan><tspan x="0" y="28.8" class="st0 st1 st13">演唱会</tspan></text>
-	<text id="广州_演唱会" transform="matrix(1 0 0 1 677.884 714.7448)" class="st12"><tspan x="0" y="0" class="st0 st1 st13">广州</tspan><tspan x="0" y="28.8" class="st0 st1 st13">演唱会</tspan></text>
-	<text transform="matrix(1 0 0 1 689.884 258.7446)" class="st12"><tspan x="0" y="0" class="st0 st1 st13">北京</tspan><tspan x="0" y="28.8" class="st0 st1 st13">演唱会</tspan></text>
+	<text transform="matrix(1 0 0 1 896.9563 527.9428)" class="st0 st1 st12">上海</text>
+	<text transform="matrix(1 0 0 1 896.9558 553.5762)" class="st0 st1 st12">演唱会</text>
+	<text transform="matrix(1 0 0 1 847.9569 792.0681)" class="st0 st1 st12">广州</text>
+	<text transform="matrix(1 0 0 1 847.9565 817.493)" class="st0 st1 st12">演唱会</text>
+	<text transform="matrix(1 0 0 1 859.9568 333.7346)" class="st0 st1 st12">北京</text>
+	<text transform="matrix(1 0 0 1 859.9568 362.5761)" class="st0 st1 st12">演唱会</text>
 </g>
 </svg>
