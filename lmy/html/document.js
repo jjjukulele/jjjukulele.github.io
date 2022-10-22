@@ -154,7 +154,7 @@ const 保存图像 = _=>{
     // open(数据地址);
     // return ;
     地址变图像元素(数据地址,图=>{
-        上下文.fillStyle = '#e4cfff';
+        上下文.fillStyle = '#ffeedf';
         上下文.fillRect(
             0,0,
             宽 * 比,高 * 比
