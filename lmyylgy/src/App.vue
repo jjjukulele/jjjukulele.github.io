@@ -123,7 +123,7 @@ onMounted(() => {
       </div>
       <transition name="bounce">
         <div v-if="isWin" color="#000" flex items-center justify-center w-full text-28px fw-bold>
-          成功加入云圈~
+          成功加入兔圈~
         </div>
       </transition>
       <transition name="bounce">
